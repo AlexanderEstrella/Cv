@@ -15,7 +15,9 @@ Project is created with:
 To run this project, install it locally using npm:
 
 ```
-$ cd ../lorem
+$ cd to "project"
 $ npm install
 $ npm start
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in the browser
 ```
