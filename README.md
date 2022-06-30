@@ -4,7 +4,7 @@
 * [Setup](#setup)
 
 ## General info
-My first lines of code
+<h1>My first lines of code</h1>
 	
 ## Technologies
 Project is created with:
